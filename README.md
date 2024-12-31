@@ -17,6 +17,8 @@ Welcome to my GitHub portfolio! I'm a passionate **penetration tester** with a d
   - CompTIA Security+  
 - 🌱 **Currently Learning**: Advanced exploit development and cloud security
 
+   As an ethical hacker, I strive to improve cybersecurity by identifying vulnerabilities before malicious actors exploit them. My expertise lies in penetration testing, secure code review, network analysis, and incident response.
+
 ---
 ## 🛠️ Skills & Expertise
 
@@ -26,10 +28,14 @@ Welcome to my GitHub portfolio! I'm a passionate **penetration tester** with a d
   - Kali Linux, Metasploit, Burp Suite, Nmap
   - Wireshark, OWASP ZAP, Nessus, and more
 - **Programming**: Python, Bash, PowerShell, JavaScript
+
+
 - **Certifications**:
   - [OSCP (Offensive Security Certified Professional)](https://www.offensive-security.com)
   - CEH (Certified Ethical Hacker)
   - CompTIA Security+
+
+
 - **Knowledge Areas**:
   - Exploit development
   - Social engineering
