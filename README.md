@@ -4,17 +4,19 @@ Welcome to my  portfolio! I'm a passionate penetration tester with a deep intere
 
 ---
 ## 🚀 About Me
-Name - Razil Raaz
-- 🌟 **Role**: Penetration Tester | Ethical Hacker | Cybersecurity Enthusiast  
+- 🌟 **Role**: Penetration Tester | Ethical Hacker | Cybersecurity Enthusiast
+  
 - 🛠 **Specializations**:
   - Web Application Security  
   - Network Penetration Testing  
   - Wireless Security  
-  - Social Engineering  
+  - Social Engineering
+    
 - 📜 **Certifications**:
   - OSCP (Offensive Security Certified Professional)  
   - CEH (Certified Ethical Hacker)  
-  - CompTIA Security+  
+  - CompTIA Security+
+    
 - 🌱 **Currently Learning**: Advanced exploit development and cloud security
 
    As an ethical hacker, I strive to improve cybersecurity by identifying vulnerabilities before malicious actors exploit them. My expertise lies in penetration testing, secure code review, network analysis, and incident response.
