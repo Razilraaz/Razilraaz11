@@ -1,6 +1,6 @@
 # 💻 Penetration Tester Portfolio
 
-Welcome to my GitHub portfolio! I'm a passionate **penetration tester** with a deep interest in ethical hacking, vulnerability assessment, and securing systems. Here, you'll find projects and resources that demonstrate my skills in cybersecurity and ethical hacking.
+Welcome to my  portfolio! I'm a passionate penetration tester with a deep interest in ethical hacking, vulnerability assessment, and system security. Here, you'll find projects and resources demonstrating my cybersecurity and ethical hacking skills.
 
 ---
 ## 🚀 About Me
